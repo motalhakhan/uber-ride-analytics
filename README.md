@@ -24,19 +24,24 @@ Dashboard Pages
 
 ## Overview
 
-![Overview](assets/6.png)
-
-## Revenue
-
-![Revenue](assets/3.png)
-
-## Customer
-
-![Customer](assets/4.png)
+![Overview](assets/2.png)
 
 ## Vehicle
 
+![Revenue](assets/3.png)
+
+## Revenue
+
+![Customer](assets/4.png)
+
+## Rider
+
 ![Vehicle](assets/5.png)
+
+## Location
+
+![Location](assets/6.png)
+
 1. Overview Dashboard
 
 Displays
