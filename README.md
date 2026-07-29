@@ -24,7 +24,7 @@ Dashboard Pages
 
 ## Overview
 
-![Overview](assets/2.png)
+![Overview](assets/6.png)
 
 ## Revenue
 
