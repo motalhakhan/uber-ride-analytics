@@ -1,4 +1,4 @@
-Uber Ride Analytics Dashboard
+##Uber Ride Analytics Dashboard
 Project Overview
 
 The Uber Ride Analytics Dashboard is an end-to-end Business Intelligence project developed using Power BI, SQL, and Excel. It provides comprehensive insights into ride bookings, revenue, customer behavior, vehicle performance, trip cancellations, and operational efficiency through interactive dashboards.
