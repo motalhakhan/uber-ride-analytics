@@ -1,15 +1,15 @@
-##Uber Ride Analytics Dashboard
-Project Overview
+## Uber Ride Analytics Dashboard
+## Project Overview
 
 The Uber Ride Analytics Dashboard is an end-to-end Business Intelligence project developed using Power BI, SQL, and Excel. It provides comprehensive insights into ride bookings, revenue, customer behavior, vehicle performance, trip cancellations, and operational efficiency through interactive dashboards.
 
-Problem Statement
+## Problem Statement
 
 Ride-hailing companies generate massive amounts of trip data every day. Without effective visualization and analysis, identifying trends in revenue, customer behavior, cancellations, and fleet utilization becomes difficult.
 
 This dashboard converts raw ride data into actionable business insights for decision-making.
 
-Objectives
+## Objectives
 Monitor booking performance
 Analyze revenue trends
 Understand customer behavior
@@ -42,7 +42,7 @@ Dashboard Pages
 
 ![Location](assets/6.png)
 
-1. Overview Dashboard
+## 1. Overview Dashboard
 
 Displays
 
@@ -53,16 +53,16 @@ Total Distance
 Average Distance
 Booking Status
 Vehicle-wise Performance
-2. Revenue Dashboard
 
+## 2. Revenue Dashboard
 Insights include
 
 Monthly Revenue Trend
 Revenue by Vehicle Type
 Revenue by Payment Method
 Highest Revenue Customers
-3. Customer Dashboard
 
+## 3. Customer Dashboard
 Analyzes
 
 First-time Riders
@@ -71,7 +71,8 @@ Regular Riders
 Customer Details
 Cancellation Reasons
 Payment Preferences
-4. Vehicle Dashboard
+
+## 4. Vehicle Dashboard
 
 Shows
 
